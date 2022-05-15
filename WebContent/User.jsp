@@ -16,7 +16,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-6">
-				<h1>Connection Request</h1>
+				<h1>User Managemnt</h1>
 				<form id="formUser" name="formUser">
 						
 					Name :
